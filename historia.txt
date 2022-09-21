@@ -5,7 +5,6 @@ Bieeenn
 Adioooooos
 
 
-MASTER 1
-MASTER 2
+
 EXP1
 EXP2
